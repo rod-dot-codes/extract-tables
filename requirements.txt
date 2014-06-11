@@ -1,0 +1,2 @@
+simplejson
+openpyxl==1.8.6
